@@ -1,0 +1,17 @@
+table {
+    margin : auto;
+    border-style:hidden;
+    width: 100%;
+}
+tr {
+    text-align : left;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    padding-top : 30px;
+}
+h4 {
+    text-align: center;
+}
+
